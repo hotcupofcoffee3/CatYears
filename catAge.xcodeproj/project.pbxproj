@@ -14,6 +14,7 @@
 		B538DC3C2051D9F20028D81F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B538DC3A2051D9F20028D81F /* LaunchScreen.storyboard */; };
 		B538DC472051D9F20028D81F /* catAgeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B538DC462051D9F20028D81F /* catAgeTests.swift */; };
 		B538DC522051D9F20028D81F /* catAgeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B538DC512051D9F20028D81F /* catAgeUITests.swift */; };
+		B538DC622051EA3E0028D81F /* cat-portrait-871298226830JRi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B538DC612051EA3D0028D81F /* cat-portrait-871298226830JRi.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B538DC4D2051D9F20028D81F /* catAgeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = catAgeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B538DC512051D9F20028D81F /* catAgeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = catAgeUITests.swift; sourceTree = "<group>"; };
 		B538DC532051D9F20028D81F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B538DC612051EA3D0028D81F /* cat-portrait-871298226830JRi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cat-portrait-871298226830JRi.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				B538DC382051D9F20028D81F /* Assets.xcassets */,
 				B538DC3A2051D9F20028D81F /* LaunchScreen.storyboard */,
 				B538DC3D2051D9F20028D81F /* Info.plist */,
+				B538DC612051EA3D0028D81F /* cat-portrait-871298226830JRi.jpg */,
 			);
 			path = catAge;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 			files = (
 				B538DC3C2051D9F20028D81F /* LaunchScreen.storyboard in Resources */,
 				B538DC392051D9F20028D81F /* Assets.xcassets in Resources */,
+				B538DC622051EA3E0028D81F /* cat-portrait-871298226830JRi.jpg in Resources */,
 				B538DC372051D9F20028D81F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
